@@ -1,6 +1,6 @@
 # The-Complete-CBDC-Course---Digital-Currency-For-All-Levels
 
-The Complete CBDC Course - Digital Currency For All Levels, by Packt Publishing
+# The Complete CBDC Course - Digital Currency For All Levels, by Packt Publishing
 
 Explore the dynamic realm of Central Bank Digital Currencies (CBDCs) with this compact course. Gain insight into blockchain technology, digital finance, and the global financial evolution. Equip yourself with the knowledge sought after by financial professionals and set your career on an upward trajectory.
 
